@@ -1,6 +1,16 @@
 <header class="site-header">
-
-  <div class="wrapper">
+  <div class="wrapper" style="z-index: 100;">
+  <!--
+      <table><tr>
+          <td><img width="75" src="{{ "/_images/logo.png" | prepend: site.baseurl }}" valign="middle"></td>
+          <td style="padding-left:10px;"><a class="schoolname" style="font-size: 15px;" class="site-title" href="{{ site.schoolurl }}">{{ site.schoolname }}</a>
+          <br/>
+          <span style="margin-top: -2px;margin-bottom: -10px;" class="site-title"><a href="{{ site.baseurl }}/" title="{{ site.course_name }} / {{ site.course_semester }} - {{ site.schoolname }}"><b>{{ site.course_name }}</a></b></span>
+          <br/>
+          <span class="coursesemeter" style="font-size: 12px;font-weight: bold;margin-top: 10px;display: block;">{{ site.course_semester }}</span>
+          </td>
+        </tr></table>
+  -->
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
@@ -19,32 +29,14 @@
 
  {% include nav.html  %}
 
-<!-- <ul class="menu">
-        <li> <a class="page-link" href="/about">About</a></li>
-        <li> <a class="page-link"  href="/blog">Blog</a>
-        <li> <a class="page-link" href="/blog">CV</a>
-        <li> <a class="page-link" href="/blog">For Students</a></li>
-        <li> <a class="page-link"  href="/blog">Research</a></a>
-        <li> <a class="page-link" href="/blog">Teaching</a>
-<ul class="sub-menu">
-	<li><a href="http://svmiller.com/teaching/posc-1020-introduction-to-international-relations/">POSC 1020 – Introduction to International Relations</a></li>
-	<li><a href="http://svmiller.com/teaching/posc-3410-quantitative-methods-in-political-science/">POSC 3410 – Quantitative Methods in Political Science</a></li>
-	<li><a href="http://svmiller.com/teaching/posc-3610-international-politics-in-crisis/">POSC 3610 – International Politics in Crisis</a></li>
-	<li><a href="http://svmiller.com/teaching/posc-3630-united-states-foreign-policy/">POSC 3630 – United States Foreign Policy</a></li>
-</ul></li>
-        <li> <a class="page-link" href="/blog">Miscellany</a>
-<ul class="sub-menu">
-	<li><a href="http://svmiller.com/teaching/posc-1020-introduction-to-international-relations/">Clean USAID Greenbook Data</a></li>
-	<li><a href="http://svmiller.com/teaching/posc-3410-quantitative-methods-in-political-science/">Journal of Peace Research *.bst File</a></li>
-	<li><a href="http://svmiller.com/teaching/posc-3610-international-politics-in-crisis/">My Custom Beamer Style</a></li>
-</ul> 
-
-</li>
-</ul> -->
-
-     </div>  
+    </div>  
     </nav>
 
   </div>
+
+  {% if site.header_texture  %}
+  <div class="header-texture" style="height:100%; z-index: 0; position: absolute; top:0; right: 0; left: 0; 
+  background-image: url('{{ site.header_texture | prepend: site.baseurl }}');" />
+  {% endif %}
 
 </header>

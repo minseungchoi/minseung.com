@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://svmiller.com/sitemap.xml
+Sitemap: http://minseung.com/sitemap.xml

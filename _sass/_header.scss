@@ -3,15 +3,20 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $clemson-purple;
+	border-bottom: 4px solid $accent-color;
     min-height: 56px;
-    background: #f66733;
+    background: $header-color;
     // Positioning context for the mobile navigation icon
     position: relative;
 
 }
 
-.site-title {
+.header-texture {
+    opacity: $header-background-opacity;
+    filter: invert($header-background-invert);
+}
+
+.site-title, .site-title a {
     font-size: 26px;
 /* 		margin-top: 15px;
     line-height: 40px; */
@@ -20,10 +25,10 @@
     float: left;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
-    color: #ffffff;
+    color: $header-text-color;
     &,
     &:visited {
-        color: #ffffff;
+        color: $header-text-color;
     }
     &,
     &:hover {
@@ -37,7 +42,7 @@
 }
 
 .site-nav ul li a {
-	color: #fff;
+	color: $header-text-color;
 }
 
 .site-nav ul {
@@ -70,7 +75,7 @@
 
 .site-nav a {
 	display: block;
-        color: #ffffff;
+        color: $header-text-color;
 }
 
 /* Sub Menu */
@@ -82,23 +87,23 @@
 	letter-spacing: 0;
 	line-height: 1.2em;
 	padding: 4px 10px;
-color: $clemson-purple;
+color: $title-color;
 
 }
 
 .site-nav .sub-menu a:hover {
-	color: $clemson-orange;
+	color: $accent-color;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
-	border-color: $clemson-purple;
+	border-color: $header-color;
 	min-width: 265px;
 
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $clemson-orange;
-	border-right-color: $clemson-orange;
+	border-left-color: $accent-color;
+	border-right-color: $accent-color;
 	border-right: 0px;
 
 }
@@ -157,7 +162,7 @@ z-index:999;
 
     .page-link {
         color: #ffffff;
-    background: $clemson-orange;
+        background: $header-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
