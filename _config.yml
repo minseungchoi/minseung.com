@@ -14,8 +14,8 @@ google_scholar_id: 6GvJhS0AAAAJ
 header_texture: "/_images/pattern.png"
 
 # Icons
-icon_32: "/_images/icons/icon-mc-32.png"
-icon_192: "/_images/icons/icon-mc-192.png"
+icon_32: "/_images/icons/icon-m-block-32.png"
+icon_192: "/_images/icons/icon-m-block-192.png"
 
 # Build settings
 markdown: kramdown
