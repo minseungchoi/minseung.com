@@ -25,6 +25,9 @@ permalink: blog/:year/:month/:title/
 jobtitle: "PhD Candidate"
 excerpt_separator: "<!--more-->"
 
+# Disqus
+disqus_shortname: 'minseung'
+
 # SEO stuff
 #google_author: "https://plus.google.com/u/0/110288225974212014913"
 #google_site_verification: "nfd8hkZSc3GmIivrLCudAdTq5m1kI0Ao7P1UyIt9z5Q"
