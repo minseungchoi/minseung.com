@@ -7,11 +7,11 @@ layout: default
 <div class="home">
 	
 <h1>Welcome</h1>
+	{% include image.html url="/_images/minseung_at_ross_cove.jpg" caption="Ross' Cove, Half Moon Bay, CA on September 26, 2020." width=480 align="right" %}
 	
-	<p>This is my academic website, where you can find information on my current research and the classes that I teach. I am an associate professor in the <a href="http://www.clemson.edu/cbbs/departments/political-science/">Department of Political Science</a> at <a href="http://www.clemson.edu/">Clemson University</a> and a <a href="https://www.bitss.org/people/steven-miller/">BITSS Catalyst</a> with the <a href="https://www.bitss.org">Berkeley Initiative for Transparency in the Social Sciences</a>.</p>
+	<p>I am a PhD Candidate in Neurosciences at Stanford University. I study how our sensory systems predict based on past information. I am advised by <a href="https://flyvisionlab.weebly.com">Tom Clandinin</a> and <a href="https://www.druckmannlab.com/">Shaul Druckmann</a>.</p>
 
-	<p>I use statistics and machine learning to understand why people adopt authoritarian political beliefs or embrace autocratic leaders in response to real or perceived threats. This puts my research and teaching interests at the broad intersection of international conflict and political behavior. My research outputs have appeared in peer-reviewed journals like <em>Comparative Political Studies</em>, <em>International Studies Quarterly</em>, <em>Journal of Conflict Resolution</em>, <em>Journal of Peace Research</em>, <em>Political Behavior</em>, and <em>Political Research Quarterly</em>, to name a few. More recent research is funded by the National Science Foundation and has even been highlighted in newspapers like <em>The New York Times</em> and <em>The Washington Post</em>.</p>
+	<p>This website is currently being updated, and pages beyond this welcome page may not be relevant to me.</p>
 
-{% include image.html url="/_images/buckeyeprotesteriran.jpg" caption="A supporter of defeated Iranian presidential candidate Mir Hossein Mousavi gestures during a rally in Tehran on June 15, 2009 (AFP/Getty Images)." width=580 align="center" %}
 
 </div>
