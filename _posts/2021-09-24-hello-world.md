@@ -11,6 +11,6 @@ image: "hello-world.png"
 
 Hello, World!
 
-What will my blog be about? Will it be about neuroscience or music? My fledgling interest in data-driven policy making?My experience at [Stanford University][1]? Time will tell...
+What will my blog be about? Will it be about neuroscience or music? My fledgling interest in data-driven policy making? My experience at [Stanford University][1]? Time will tell...
 
 [1]: http://www.stanford.edu/

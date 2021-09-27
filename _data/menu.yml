@@ -15,8 +15,8 @@
     - subtitle: "NEPR 209: Introduction to Mathematical Tools in Neuroscience"
       subhref: "https://druckmann-lab.github.io/math-tools-intro-2022/"
 
-- title: "Blog"
-  href: "/blog/"
+#- title: "Blog"
+#  href: "/blog/"
 
 - title: "Misc."
   href: ""
