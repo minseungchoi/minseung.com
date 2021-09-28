@@ -10,10 +10,10 @@
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
+    - subtitle: "Introduction to Mathematical Tools in Neuroscience (NEPR209)"
+      subhref: "https://druckmann-lab.github.io/math-tools-intro-2022/"
     - subtitle: "Stanford Intensive Neurosciences Bootcamp"
       subhref: "/teaching/SIN-bootcamp/"
-    - subtitle: "NEPR 209: Introduction to Mathematical Tools in Neuroscience"
-      subhref: "https://druckmann-lab.github.io/math-tools-intro-2022/"
 
 #- title: "Blog"
 #  href: "/blog/"
