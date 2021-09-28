@@ -4,7 +4,7 @@ title: Welcome
 permalink: /
 ---
 
-{% include image.html url="/_images/minseung_at_ross_cove.jpg" caption="Ross' Cove, Half Moon Bay, CA on September 26, 2020." width=480 align="right" %}
+{% include image.html url="/images/minseung_at_ross_cove.jpg" caption="Ross' Cove, Half Moon Bay, CA on September 26, 2020." width=480 align="right" %}
 
 I am a PhD Candidate in Neurosciences at Stanford University. I study how our sensory systems predict based on past information. I am advised by [Tom Clandinin](https://flyvisionlab.weebly.com) and [Shaul Druckmann](https://www.druckmannlab.com/).
 

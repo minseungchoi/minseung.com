@@ -11,11 +11,14 @@ orcid_id: 0000-0001-5398-219X
 google_scholar_id: 6GvJhS0AAAAJ
 
 # Header settings
-header_texture: "/_images/pattern.png"
+header_texture: "/images/pattern.png"
 
 # Icons
-icon_32: "/_images/icons/icon-m-block-32.png"
-icon_192: "/_images/icons/icon-m-block-192.png"
+icon_32: "/images/icons/icon-m-block-32.png"
+icon_192: "/images/icons/icon-m-block-192.png"
+
+# Default image
+default_image: "/images/minseung_at_ross_cove.jpg"
 
 # Build settings
 markdown: kramdown
@@ -36,8 +39,8 @@ disqus_shortname: 'minseung'
 plugins:
   - jekyll-sitemap
 
-include: ['_images', '_css']
-exclude: ['develop']
+include: ['_css']
+exclude: ['develop', '_stashed']
 
 dateformat: "%a %-m/%-d/%Y"
 onlydateformat: "%-m/%-d/%Y"

@@ -5,7 +5,7 @@ permalink: /teaching/
 image: "minseung_teaching_SIN.jpg"
 ---
 
-{% include image.html url="/_images/minseung_teaching_SIN.jpg" caption="Teaching electrophysiology for 1st-year Neurosciences PhD students. Stanford Intensive Neuroscience, September 2018." width="300" align="right" %}
+{% include image.html url="/images/minseung_teaching_SIN.jpg" caption="Teaching electrophysiology for 1st-year Neurosciences PhD students. Stanford Intensive Neuroscience, September 2018." width="300" align="right" %}
 
 Please find below courses I have taught or am soon teaching.
 

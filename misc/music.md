@@ -5,7 +5,7 @@ permalink: /misc/music/
 image: "conducting_contrapunctus.jpg"
 ---
 
-{% include image.html url="/_images/conducting_contrapunctus.jpg" caption="Performing Hear my Prayer, O Lord by Purcell with Contrapunctus CXIV. December 2nd, 2016." width="400" align="right" %}
+{% include image.html url="/images/conducting_contrapunctus.jpg" caption="Performing Hear my Prayer, O Lord by Purcell with Contrapunctus CXIV. December 2nd, 2016." width="400" align="right" %}
 
 I sing in the [Stanford Chamber Chorale](https://chorale.stanford.edu/). In the past, I have sung with [Princeton University Glee Club](https://princetongleeclub.com/), [Princeton University Chamber Choir](https://princetongleeclub.com/chamber-choir/), [Princeton University Chapel Choir](http://www.princetonchapelchoir.com/), and [Contrapunctus XIV](https://www.facebook.com/ContrapunctusXIV/).
 

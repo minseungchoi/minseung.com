@@ -5,7 +5,7 @@ permalink: /research/carreira-rosario-et-al-2021/
 image: "carreira-rosario-2021-graphical-abstract.jpg"
 ---
 
-{% include image.html url="/_images/carreira-rosario-2021-graphical-abstract.jpg" width="400" align="right" %}
+{% include image.html url="/images/carreira-rosario-2021-graphical-abstract.jpg" width="400" align="right" %}
 
 <!--## Article and Supporting Materials  --> 
 

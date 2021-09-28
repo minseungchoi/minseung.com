@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-{% include image.html url="/_images/fly_on_ball_schematic.png" caption="A schematic of a fruit fly performing visual tasks in virtual reality. The tethered fly walks on an air-supported ball, while interacting with visual objects." width=300 align="right" %}
+{% include image.html url="/images/fly_on_ball_schematic.png" caption="A schematic of a fruit fly performing visual tasks in virtual reality. The tethered fly walks on an air-supported ball, while interacting with visual objects." width=300 align="right" %}
 
 Our brains are capable of making predictions about our sensory world based on their previous experiences. This capacity guides our behaviors to be more efficient and, in some cases, is crucial for survival. To understand how a brain can make such computations, I study visual prediction in fruit flies using systems and computational neuroscience.  
 
