@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
+sitemap: false
 ---
 
 I might blog occasionally. My blog entries---{{ site.posts | size }} in total since I started this website in 2021---may span neuroscience, computer science, music, political science, and public policy. 

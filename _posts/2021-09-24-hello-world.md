@@ -7,6 +7,7 @@ categories:
   - Site News
 excerpt: "What will my blog be about?"
 image: "hello-world.png"
+sitemap: false
 ---
 
 Hello, World!

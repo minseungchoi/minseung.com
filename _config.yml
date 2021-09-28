@@ -33,7 +33,7 @@ disqus_shortname: 'minseung'
 #google_site_verification: "nfd8hkZSc3GmIivrLCudAdTq5m1kI0Ao7P1UyIt9z5Q"
 #bing_webmastertools_id: "E24D33E8D53D5730794478CB209F15E5"
 
-plugins_dir:
+plugins:
   - jekyll-sitemap
 
 include: ['_images', '_css']
