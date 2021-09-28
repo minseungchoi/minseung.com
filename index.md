@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Welcome
+layout: default
 permalink: /
 ---
+
+# Welcome
 
 {% include image.html url="/images/minseung_at_ross_cove.jpg" caption="Ross' Cove, Half Moon Bay, CA on September 26, 2020." width=480 align="right" %}
 
