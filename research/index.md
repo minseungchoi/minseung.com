@@ -15,11 +15,11 @@ My past research included modeling DNA methylation as a dynamic process with imp
 
 ## Publications
 
-Carreira-Rosario A, York RA, **Choi M**, Doe CQ, and Clandinin TR. "[Mechanosensory input during circuit formation shapes Drosophila motor behavior through patterned spontaneous network activity](https://doi.org/10.1016/j.cub.2021.08.022)." *Current Biology.* In Press.
+Carreira-Rosario A, York RA, **Choi M**, Doe CQ, and Clandinin TR. 2021. "[Mechanosensory input during circuit formation shapes Drosophila motor behavior through patterned spontaneous network activity](https://doi.org/10.1016/j.cub.2021.08.022)." *Current Biology.* In Press.
 
 Kauvar IV, Machado TA, Yuen E, Kochalka J, **Choi M**, Allen WE, Wetzstein G, and Deisseroth K. 2020. "[Cortical observation by synchronous multifocal optical sampling reveals widespread population encoding of actions](https://doi.org/10.1016/j.neuron.2020.04.023)." *Neuron.* 107(2): 351-367.
 
 
-Stöger R, **Choi M**, Leeman G, Emes RD, Begum K, Melamed P, and Bently GR. "[Childhood location correlates with epigenetic age and methylation stability in British-Bangladeshi migrants](2020)." *bioRxiv.*
+Stöger R, **Choi M**, Leeman G, Emes RD, Begum K, Melamed P, and Bently GR. 2020. "[Childhood location correlates with epigenetic age and methylation stability in British-Bangladeshi migrants](https://doi.org/10.1101/2020.09.19.304808)." *bioRxiv.*
 
 **Choi M**, Genereux DP, Goodson J, Al-Azzawi H, Allain SQ, Simon N, Palasek S, Ware CB, Cavanaugh C, Miller D, Johnson WC, Sinclair KD, Stöger R, and Laird CD. 2017. "[Epigenetic memory via concordant DNA methylation is inversely correlated to developmental potential of mammalian cells](https://doi.org/10.1371/journal.pgen.1007060)." *PLoS Genetics.* 13(11): e1007060.
